@@ -4,6 +4,11 @@ Calculadora de escritorio desarrollada en Java con NetBeans y Swing.
 Cuenta con una interfaz moderna y oscura, sin bordes de ventana, 
 y soporte tanto para mouse como para teclado físico.
 
+
+<img width="387" height="513" alt="image" src="https://github.com/user-attachments/assets/f46431d8-bf43-4a6f-aec5-4cbb1a7214af" />
+
+
+
 ## Funcionalidades
 
 ### Operaciones básicas
