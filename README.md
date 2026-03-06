@@ -5,7 +5,7 @@ Cuenta con una interfaz moderna y oscura, sin bordes de ventana,
 y soporte tanto para mouse como para teclado físico.
 
 
-<img width="387" height="513" alt="image" src="https://github.com/user-attachments/assets/f46431d8-bf43-4a6f-aec5-4cbb1a7214af" />
+<img width="382" height="520" alt="image" src="https://github.com/user-attachments/assets/e7c535c4-c330-47e8-864e-6907ea32221d" />
 
 
 
@@ -35,6 +35,11 @@ y soporte tanto para mouse como para teclado físico.
 - Efecto hover en todos los botones al pasar el cursor
 - Botón de cerrar se pone rojo al pasar el cursor
 - Ventana movible arrastrando desde cualquier parte
+
+
+<img width="378" height="513" alt="image" src="https://github.com/user-attachments/assets/68aaf8a4-583b-4f62-875d-564895f3cb89" />
+
+
 
 ### Teclado físico
 | Tecla | Acción |
